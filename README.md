@@ -2,7 +2,7 @@
 
 ### **Our draft product looks like:**
 
-![](images/Screenshot%202023-04-16%20at%209.24.04%20PM.png)
+<img width="1497" alt="Screenshot 2023-04-16 at 9 24 04 PM" src="https://user-images.githubusercontent.com/91519750/232364855-a30c0bc4-6e45-4c1d-9df5-34b7083a9f53.png">
 
 **What\'s new !!!**
 
